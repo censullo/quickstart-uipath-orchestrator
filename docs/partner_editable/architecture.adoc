@@ -27,4 +27,4 @@ As shown in <<architecture1>>, the Quick Start sets up the following:
 * Amazon S3 bucket for NuGet packages, the automation projects run by UiPath software robots.
 * AWS Identity and Access Management (IAM) role granting access to the S3 bucket to AWS Storage Gateway.
 
-*The template that deploys the Quick Start into an existing VPC skips the components marked by asterisks and prompts you for your existing VPC configuration.
+[.small]#*The template that deploys the Quick Start into an existing VPC skips the components marked by asterisks and prompts you for your existing VPC configuration.#
